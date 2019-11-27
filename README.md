@@ -1,5 +1,5 @@
-# Fusion of Orthogonal Matching Pursuit and Least Squares Pursuit for
-Robust Sparse Recovery
+# Fusion of Orthogonal Matching Pursuit and Least Squares Pursuit for Robust Sparse Recovery
+
 
 This is the code accompanying the paper:
 
